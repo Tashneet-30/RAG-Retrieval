@@ -10,3 +10,6 @@ langchain-openai
 openai
 tiktoken
 python-dotenv
+typesense
+langchain-groq
+langchain-huggingface
