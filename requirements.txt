@@ -13,3 +13,5 @@ python-dotenv
 typesense
 langchain-groq
 langchain-huggingface
+langchain_openai
+langgraph
